@@ -20,6 +20,7 @@ public class Main extends JFrame implements ActionListener {
 	int week = WEEK;
 	int lab = LAB;
 	boolean usesJFX = USESJAVAFX;
+	rmaanazzvxhbv
 
 	// Basic
 	static final long serialVersionUID = 1L;
